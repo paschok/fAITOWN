@@ -1,0 +1,8 @@
+mail.php - responsible for mail service
+db_connect.php - connects to the database
+fairy_name.php - in file search.php outputs the fairies
+header.php / footer.php - segments of layout of the page that are put into separate files to make possible changing more convinient
+phrase.php - outputs random phrases in the index.php file
+settings.php - configuration of meta tag in the <head> segment of the page
+book_offer.php - offers random books in the index.php file
+download.php / read.php- download files and read them
